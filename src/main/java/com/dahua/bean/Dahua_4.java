@@ -6,5 +6,7 @@ public class Dahua_4 {
 
         System.out.println("hello 我是分支");
 
+        System.out.println("hello 分支二");
+
     }
 }
